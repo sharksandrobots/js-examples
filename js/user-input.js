@@ -13,6 +13,7 @@ submitButton.addEventListener('click', () => {
     'New York': 'Sunny, 75°F',
     'Los Angeles': 'Partly Cloudy, 85°F',
     'Chicago': 'Rainy, 60°F',
+    'Boston': 'Sunny, 80F',
     // Add more cities as needed
   };
 

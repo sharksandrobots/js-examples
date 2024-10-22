@@ -5,7 +5,7 @@ const resultParagraph = document.getElementById('result');
 
 // Generate a random number between 1 and 100
 //const secretNumber = 17;
-const secretNumber = Math.floor(Math.random() * 100) + 1;
+const secretNumber = 8;
 
 
 
